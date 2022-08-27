@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    align-content: center;
+}
+
+.info{
+    background-color: #6529a1;
+    height: 50%;
+    width: 50%;
+    display: inline;
+    background-color: aqua;
+    border: 25px;
+    border-color: black;
+    border-radius: 10px;
+}
+.extra{
+    background-color: rgb(41, 116, 182);
+}
+input{
+    display: block;
+    margin-top: 15px;
+}
+input[type="submit"]{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    align-content: center;
+}
